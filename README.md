@@ -1,0 +1,19 @@
+# My kitty terminal's configuration
+
+I don't have any special settings whatsoever.
+
+<img src="./EndeavourOS_Qtile_2025-09-29_20-07-39.png" width="40%">
+
+I have installed and am using Qtile on EndeavourOS. The applications I use are listed below.
+
+- [Qtile](https://github.com/dollplayer2501/dotfiles_qtile)
+- [Starship](https://github.com/dollplayer2501/dotfiles_starship)
+- The following is not public.
+  - Fish shell
+  - Picom
+  - Bat
+  - Ranger
+  - LazyVim
+
+
+<!-- -->
