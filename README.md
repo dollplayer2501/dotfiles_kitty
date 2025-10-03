@@ -1,6 +1,7 @@
 # My kitty terminal's configuration
 
-I don't have any special settings whatsoever.
+I don't have any special settings whatsoever.  
+**However**, I recommend [`cursor_trail`](https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.cursor_trail). I think it adds an accent when typing.
 
 <img src="./EndeavourOS_Qtile_2025-09-29_20-07-39.png" width="40%">
 
