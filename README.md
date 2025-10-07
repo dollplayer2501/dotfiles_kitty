@@ -9,13 +9,13 @@ I have installed and am using Qtile on EndeavourOS. The applications I use are l
 
 - [Qtile](https://github.com/dollplayer2501/dotfiles_qtile)
 - [Starship](https://github.com/dollplayer2501/dotfiles_starship)
+- [LazyVim](https://github.com/dollplayer2501/dotfiles_nvim_rev2)
 - The following are in private repositories:
   - Fish shell
   - Picom
   - Fastfetch
   - Bat
   - Ranger
-  - LazyVim
 
 
 <!-- -->
